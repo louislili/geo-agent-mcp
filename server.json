@@ -1,7 +1,7 @@
 {
     "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
     "name": "io.github.louislili/geo-agent-mcp",
-    "description": "GEO Agent MCP Server. Injects product knowledge and SEO-optimized landing pages into geo.yigather.com. AI Agents can use this to create structured product databases and automatically manage draft landing pages.",
+    "description": "GEO Agent Server. Injects product knowledge and SEO landing pages into geo.yigather.com.",
     "repository": {
         "url": "https://github.com/louislili/geo-agent-mcp",
         "source": "github"

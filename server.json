@@ -18,6 +18,27 @@
                     "format": "string",
                     "isSecret": true,
                     "name": "Authorization"
+                },
+                {
+                    "name": "MCP_PROTOCOL_VERSION",
+                    "description": "MCP Protocol Version",
+                    "isRequired": true,
+                    "format": "string",
+                    "defaultValue": "2025-11-25"
+                },
+                {
+                    "name": "VALIDATION_STRICT",
+                    "description": "Enable strict validation",
+                    "isRequired": true,
+                    "format": "string",
+                    "defaultValue": "true"
+                },
+                {
+                    "name": "SANITIZE_OUTPUT",
+                    "description": "Enable output sanitization",
+                    "isRequired": true,
+                    "format": "string",
+                    "defaultValue": "true"
                 }
             ]
         }
